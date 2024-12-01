@@ -3,7 +3,10 @@ from utils.AccountManage import load_users, verify_password
 
 # 網頁配置
 st.set_page_config(
-    page_title="", page_icon=":rainbow:", layout="wide", initial_sidebar_state="auto"
+    page_title="SMS管理系統",
+    page_icon=":wrench:",
+    layout="wide",
+    initial_sidebar_state="auto",
 )
 
 

@@ -3,7 +3,7 @@ import json
 import os
 from utils.AccountManage import (
     hash_password,
-)  # 假設您在 utils.AccountManage 中實現了 hash_password 函數
+)
 
 # 設定 JSON 檔案的路徑
 SECRET_PATH = "data/users_db.json"
