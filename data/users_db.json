@@ -1,0 +1,14 @@
+{
+    "lohas": {
+        "password": "$2b$12$HxyYXr65.pN3wjc28khpnugeY2/9mCyQEqwSCRd/CCIJs6IvqBp9C",
+        "role": "admin"
+    },
+    "user001": {
+        "password": "$2b$12$Lh11ZUP/lbFQdPPoi4/lkuGNNdvWXWhBNWLFdJj1Nxb9ShY6tK.R.",
+        "role": "employee001"
+    },
+    "user002": {
+        "password": "$2b$12$pWcc/R7pbsAg211rehHbnuE66YE7tJuQ5GO/viDujdEKZ.rl.f5uy",
+        "role": "employee002"
+    }
+}

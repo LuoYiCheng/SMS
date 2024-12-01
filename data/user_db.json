@@ -1,0 +1,5 @@
+{
+    "lohas": {"password": "lohas202412", "role": "admin"},
+    "user001": {"password": "user001202412", "role": "employee001"},
+    "user002": {"password": "user002202412", "role": "employee002"}
+}
